@@ -1,0 +1,42 @@
+body{
+	background-color:blue;
+}
+.user{
+	margin:auto;
+	padding:auto;
+	background-color:white;
+	float:left;
+	margin-top:1px
+}
+.user h4{
+	margin:auto;
+	padding-left:20px;
+}
+.img{
+	padding-left:1200px;
+	padding-bottom:0;
+	float:right;
+}
+.body{
+	position:relative;
+	background-color:blue;
+	margin-top:10px;
+	display: block;
+	color:white;
+	overflow:auto;
+}
+ul#menu li{
+	display:inline;
+	float:right;
+	padding:16px;
+}
+.mainbody{
+	background-color:white;
+	position: relative;
+	overflow:auto;	
+	padding-bottom:300px;	
+}
+ul#secondmenu li{
+	display:inline;
+	border: 1px solid gray;
+}
